@@ -6,8 +6,14 @@ package com.example;
  */
 public class App 
 {
-    public static void main( String[] args )
+
+
+
+    public static void main(String[] args )
     {
-        System.out.println( "Hello World!" );
+        Centro centro = new Centro();
+        centro.setNome("Centro 01");
+        System.out.println( centro.getNome() );
     }
+
 }
