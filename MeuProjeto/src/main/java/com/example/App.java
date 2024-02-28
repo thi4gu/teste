@@ -13,7 +13,7 @@ public class App
     {
         Centro centro = new Centro();
         // Comentario bla bla bla
-        centro.setNome("Centro Novo de Novo 3.2");
+        centro.setNome("Centro Novo de Novo 3.5");
         System.out.println( centro.getNome() );
     }
 
