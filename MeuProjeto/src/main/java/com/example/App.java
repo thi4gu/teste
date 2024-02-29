@@ -14,7 +14,7 @@ public class App
         Centro centro = new Centro();
         centro.setNome("Centro Novo de Novo 3.5 Eclipse"); 
         System.out.println( "Nome: " + centro.getNome() );
-        // Comentario bla bla bla
+        // Comentario bla bla bla2
     }
 
 }
