@@ -14,7 +14,7 @@ public class App
         Centro centro = new Centro();
         // Comentario Intellij
         centro.setNome("Centro Novo de Novo 3.6 Intellij");
-        centro.setNome("Centro Novo de Novo 3.5 Eclipse");
+        centro.setNome("Centro Novo de Novo 3.6 Eclipse");
         System.out.println( centro.getNome() );
     }
 
